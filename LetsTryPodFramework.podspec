@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "LetsTryPodFramework"
   s.version      = "1.0.0"
-  s.summary      = "A short description of LetsTryPodFramework."
+  s.summary      = "A delightful iOS and OS X framework."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-                    DESC
+                    "This is just a trial version of how to convert the frameworks into cocoapods."
 
    s.homepage     = "https://github.com/ShradhaGit/LetsTryPodFramework"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
